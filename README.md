@@ -1,5 +1,6 @@
 # Tener instalado visual studio Codo
 # Tener instalado node.js
+# Instalar package.json con npm install 
 # Ejecutar con el comando  npx wdio
 # Con una extension de mocha
 # Se comienza con la instaación de framework npx wdio se instala primero el package.json  que es mecesario para ejecutar ccon node
